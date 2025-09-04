@@ -1,8 +1,9 @@
+import React from "react";
 import "./App.css";
 import { TaskList } from "./components/TaskList";
 
-function App() {
-  return <TaskList />;
+export class App extends React.Component {
+  render() {
+    return <TaskList />;
+  }
 }
-
-export default App;

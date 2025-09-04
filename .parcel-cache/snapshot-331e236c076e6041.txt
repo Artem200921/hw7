@@ -1,4 +1,4 @@
-47364
+47438
 72C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\lodash\isFunction.js134008643668905484 0
 94C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\styled-components\native\dist\constructors134010211141898615 1
 80C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\es-abstract\2017\ToNumber.js134008643685679700 0
@@ -61,7 +61,7 @@
 86C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@babel\helper-validator-option\lib134008643621056902 1
 73C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\is-callable\README.md134008643623280816 0
 113C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\webpack-manifest-plugin\node_modules\source-map\lib\base64.js134008643620755870 0
-43C:\Users\Amigos\Documents\GoIteens\hw8\dist134010220943235184 1
+43C:\Users\Amigos\Documents\GoIteens\hw8\dist134014872775538279 1
 115C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\sucrase\dist\transformers\OptionalChainingNullishTransformer.js134008643650366614 0
 79C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\webpack\lib\ErrorHelpers.js134008643659444344 0
 102C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\styled-components\native\dist\secretInternals.d.ts134010211141807923 0
@@ -267,7 +267,7 @@
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\svgo\types\lib\stringifier.d.ts134010220328789789 0
 71C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\escodegen\README.md134008643620564690 0
 97C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\workbox-build\node_modules\webidl-conversions134008643610125939 1
-49C:\Users\Amigos\Documents\GoIteens\hw8\src\App.js134010219491316286 0
+49C:\Users\Amigos\Documents\GoIteens\hw8\src\App.js134014872784056968 0
 129C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@typescript-eslint\eslint-plugin\dist\rules\no-redundant-type-constituents.js134008643651153115 0
 101C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.h134010220329483469 0
 53C:\Users\Amigos\Documents\GoIteens\hw8\src\components134008650463338999 1
@@ -290,7 +290,7 @@
 80C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\workbox-core\copyResponse.js134008643625886185 0
 95C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js-pure\modules\web.clear-immediate.js134008643697887234 0
 58C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\colord134008643642236871 1
-51C:\Users\Amigos\Documents\GoIteens\hw8\src\index.js134008644736122275 0
+51C:\Users\Amigos\Documents\GoIteens\hw8\src\index.js134010326286333226 0
 77C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\full\string\at.js134008643657220003 0
 90C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\full\string\from-code-point.js134008643679334933 0
 85C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\crypto-random-string\package.json134008643601020675 0
@@ -375,7 +375,7 @@
 63C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\serve-index134008643616453945 1
 63C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\fb-watchman134008643607076657 1
 104C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\webpack\schemas\plugins\WatchIgnorePlugin.check.d.ts134008643672334786 0
-58C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache134008651705116991 1
+58C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache134010222700245954 1
 87C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\babel-preset-react-app\node_modules134008643580935479 1
 71C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\webpack\SECURITY.md134008643671693223 0
 102C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\eslint\node_modules\js-yaml\lib\schema\failsafe.js134008643625609303 0
@@ -2257,7 +2257,7 @@
 125C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\regenerate-unicode-properties\Script_Extensions\Inscriptional_Parthian.js134008643655956983 0
 86C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\tailwindcss\lib\cli\build\utils.js134008643661566368 0
 88C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\es-abstract\2025\ClearKeptObjects.js134008643661586912 0
-63C:\Users\Amigos\Documents\GoIteens\hw8\dist\public.d91c94e1.css134010220943214936 0
+63C:\Users\Amigos\Documents\GoIteens\hw8\dist\public.d91c94e1.css134014872774994138 0
 105C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\jsx-ast-utils\lib\values\expressions\SpreadElement.js134008643649247156 0
 86C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\webpack\lib\CompatibilityPlugin.js134008643651882028 0
 95C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\pretty-format\build\plugins\ReactElement.js134008643627419708 0
@@ -3434,6 +3434,7 @@
 85C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\postcss-double-position-gradients134008643614497067 1
 67C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\is-generator-fn134008643613954264 1
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\jest-matcher-utils\package.json134008643615735529 0
+134C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\hooks\pre-receive.sample134010222706449569 0
 60C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\readdirp134008643614456561 1
 96C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js-pure\features\string\virtual\bold.js134008643659807573 0
 107C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\svgo\node_modules\csso\cjs\replace\atrule\keyframes.cjs134010220325353282 0
@@ -5830,7 +5831,7 @@
 96C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js-pure\proposals\collection-of-from.js134008643662146897 0
 110C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@typescript-eslint\scope-manager\dist\lib\es2018.regexp.js134008643643200044 0
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\workbox-core\src\skipWaiting.ts134008643652266515 0
-62C:\Users\Amigos\Documents\GoIteens\hw8\dist\public.31b563d9.js134010220943154650 0
+62C:\Users\Amigos\Documents\GoIteens\hw8\dist\public.31b563d9.js134014872775478174 0
 64C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\y18n\LICENSE134008643601020675 0
 89C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\jest-resolve\build\defaultResolver.js134008643606254701 0
 106C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one134010220331457027 1
@@ -6714,6 +6715,7 @@
 102C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@babel\plugin-transform-unicode-regex\package.json134008643615388728 0
 93C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\webpack\schemas\plugins\BannerPlugin.json134008643671065659 0
 96C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\workbox-streams\build\workbox-streams.dev.js134008643624310047 0
+121C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\description134010222706404453 0
 91C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\workbox-precaching\src\matchPrecache.ts134008643649121486 0
 91C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\postcss-custom-selectors\dist\index.cjs134008643602479772 0
 100C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\websocket-driver\lib\websocket\driver\draft75.js134008643610276920 0
@@ -7242,6 +7244,7 @@
 76C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\workbox-precaching\build134008643639373224 1
 97C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\workbox-precaching\cleanupOutdatedCaches.d.ts134008643646644650 0
 96C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\es-abstract\2020\IntegerIndexedElementGet.js134008643673353439 0
+159C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\objects\e0\0384a198f58fd23efd932a2edcf2b150fa2b47134010222730872352 0
 104C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\static-eval\node_modules\escodegen\bin\esgenerate.js134008643616368647 0
 95C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\workbox-precaching\cleanupOutdatedCaches.js134008643616408774 0
 84C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\actual\string\pad-end.js134008643689419162 0
@@ -9883,6 +9886,7 @@
 116C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\workbox-build\node_modules\ajv\dist\compile\codegen\scope.js.map134008643659985091 0
 101C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\modules\esnext.uint8-array.from-base64.js134008643675904076 0
 116C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\postcss-load-config\node_modules\yaml\browser\dist\schema\common134008643654118917 1
+67C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages134010222706384410 1
 110C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\workbox-build\node_modules\@apideck\better-ajv-errors\dist134008643634211558 1
 97C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\postcss-modules-local-by-default\src\index.js134008643606546648 0
 91C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\jest-snapshot\build\SnapshotResolver.js134008643623537019 0
@@ -10220,6 +10224,7 @@
 88C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\svgo\plugins\removeElementsByAttr.js134010220327948454 0
 101C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\es-abstract\2016\OrdinaryCreateFromConstructor.js134008643679055431 0
 100C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\workbox-broadcast-update\src\responsesAreSame.ts134008643639087507 0
+129C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\refs\remotes\origin134010222796161458 1
 78C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\postcss\lib\stringifier.js134008643635787034 0
 115C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\webpack\lib\dependencies\ModuleDependencyTemplateAsRequireId.js134008643665867549 0
 113C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\istanbul-lib-source-maps\node_modules\source-map\CHANGELOG.md134008643630735735 0
@@ -10832,6 +10837,7 @@
 94C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js-pure\features\instance\includes.js134008643681928252 0
 122C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\webpack-manifest-plugin\node_modules\source-map\dist\source-map.min.js134008643636910726 0
 70C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\strip-bom\index.js134008643607858185 0
+137C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\hooks\applypatch-msg.sample134010222706404453 0
 126C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\webpack-manifest-plugin\node_modules\source-map\dist\source-map.min.js.map134008643638790507 0
 91C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\webpack-manifest-plugin\dist\helpers.js134008643606244705 0
 102C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\css-to-react-native\src\__tests__\shadowOffsets.js134010211140812073 0
@@ -11773,6 +11779,7 @@
 113C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@webassemblyjs\ast\lib\transform\ast-module-to-module-context134008643632243765 1
 81C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\underscore\cjs\_optimizeCb.js134008643650835539 0
 107C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\postcss-minify-font-values\types\lib\minify-weight.d.ts134008643628512243 0
+115C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\index.html134010222729192456 0
 112C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-plaintext.js134008643668001584 0
 85C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\webpack\lib\stats\StatsFactory.js134008643669335448 0
 74C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\lodash\fp\fromPairs.js134008643667685066 0
@@ -14706,6 +14713,7 @@
 102C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\tsconfig-paths\lib\__tests__\mapping-entry.test.js134008643644256889 0
 109C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\domexception\node_modules\webidl-conversions\package.json134008643602264098 0
 107C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\tsconfig-paths\lib\__tests__\match-path-async.test.d.ts134008643644623463 0
+120C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\refs\heads134010222730973091 1
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\features\math\fround.js134008643679736029 0
 109C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\tsconfig-paths\lib\__tests__\match-path-async.test.js.map134008643644969673 0
 90C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\es-abstract\2022\AdvanceStringIndex.js134008643649197089 0
@@ -14923,6 +14931,7 @@
 98C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@babel\runtime\helpers\esm\asyncToGenerator.js134008643647647023 0
 88C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\modules\esnext.array.with.js134008643674164352 0
 82C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\text-table\example\dotalign.js134008643619822926 0
+129C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\hooks\update.sample134010222706459572 0
 95C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\jsdom\lib\jsdom\living\generated\Comment.js134008643643335581 0
 79C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\text-table\example\table.js134008643622698345 0
 122C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\postcss-load-config\node_modules\yaml\browser\dist\compose\composer.js134008643640383040 0
@@ -15615,7 +15624,7 @@
 101C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\es-iterator-helpers\aos\GetIteratorFlattenable.js134008643639197828 0
 88C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\svgo\types\plugins\minifyStyles.d.ts134010220329731389 0
 84C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\features\string\fixed.js134008643678199466 0
-82C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\lmdb\dependencies\lmdb-data-v1134010220320774410 1
+82C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\lmdb\dependencies\lmdb-data-v1134010220320910081 1
 97C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\svgo\types\plugins\moveElemsAttrsToGroup.d.ts134010220329765095 0
 104C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\styled-components\native\dist\dist\utils\errors.d.ts134010211141278910 0
 137C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@testing-library\dom\node_modules\aria-query\lib\etc\roles\literal\applicationRole.js134008643749438405 0
@@ -15939,6 +15948,7 @@
 74C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\object.entries\LICENSE134008643615247658 0
 91C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\svgo\node_modules\domutils\lib\index.js134010220322765134 0
 94C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\svgo\node_modules\domutils\lib\legacy.d.ts134010220327135636 0
+159C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\objects\c2\161ae4c81ee22cbbbe3781ab46c3b6be7214ef134010222730942918 0
 96C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\svgo\node_modules\domutils\lib\legacy.js.map134010220325634988 0
 105C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\modules\es.object.get-own-property-symbols.js134008643671658072 0
 133C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@testing-library\dom\node_modules\aria-query\lib\etc\roles\dpub\docNoterefRole.js134008643750320581 0
@@ -16598,6 +16608,7 @@
 90C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\hpack.js\node_modules\isarray\index.js134008643611671610 0
 116C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\svgo\node_modules\css-select\lib\pseudo-selectors\aliases.js.map134010220325774637 0
 114C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\svgo\node_modules\css-select\lib\pseudo-selectors\filters.d.ts134010220328704595 0
+133C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\hooks\commit-msg.sample134010222706404453 0
 118C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\ajv-formats\node_modules\ajv\dist\vocabularies\jtd\metadata.js.map134008643658833539 0
 81C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\postcss-initial\.editorconfig134008643601357429 0
 85C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\styled-components\native\dist\hoc134010211142155766 1
@@ -21836,7 +21847,7 @@
 73C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\lodash\fp\contains.js134008643664121733 0
 108C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\eslint-plugin-react\node_modules\resolve\test\module_dir134008643645999513 1
 71C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\promise\src\core.js134008643623780373 0
-67C:\Users\Amigos\Documents\GoIteens\hw8\dist\public.d91c94e1.css.map134010220943235184 0
+67C:\Users\Amigos\Documents\GoIteens\hw8\dist\public.d91c94e1.css.map134014872775014135 0
 124C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@typescript-eslint\typescript-estree\dist\parseSettings\ExpiringCache.js134008643630167773 0
 96C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\es-abstract\2020\UTF16DecodeSurrogatePair.js134008643688175986 0
 74C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\lodash\_baseSetData.js134008643650800442 0
@@ -22276,6 +22287,7 @@
 94C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\postcss-svgo\node_modules\svgo\lib\svgo.js134008643649006993 0
 94C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\postcss-svgo\node_modules\svgo\lib\xast.js134008643649257164 0
 98C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\postcss-svgo\node_modules\svgo\lib\svgo\coa.js134008643630605357 0
+117C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\objects134010222731146540 1
 109C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\postcss-svgo\node_modules\svgo\lib\svgo\css-class-list.js134008643636609588 0
 115C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\postcss-svgo\node_modules\svgo\lib\svgo\css-select-adapter.d.ts134008643649596002 0
 137C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@typescript-eslint\eslint-plugin\docs\rules\no-unnecessary-boolean-literal-compare.md134008643666380879 0
@@ -24347,6 +24359,7 @@
 68C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\neo-async\dir.js134008643638278214 0
 73C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\neo-async\doDuring.js134008643638636656 0
 69C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\neo-async\each.js134008643639837875 0
+134C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\logs\refs\remotes\origin134010222796151498 1
 71C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\neo-async\eachOf.js134008643640403030 0
 72C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\jest-watcher\LICENSE134008643601557347 0
 80C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\mdn-data\css\properties.json134010220324948375 0
@@ -24359,6 +24372,7 @@
 76C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\neo-async\filterLimit.js134008643642954196 0
 108C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\fork-ts-checker-webpack-plugin\lib\reporter\reporter-rpc134008643657382714 1
 77C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\neo-async\filterSeries.js134008643643134821 0
+129C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\refs\heads\gh-pages134010222730973091 0
 84C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\actual\json\stringify.js134008643693809652 0
 69C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\neo-async\find.js134008643643315596 0
 75C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\neo-async\findSeries.js134008643643684866 0
@@ -26031,6 +26045,7 @@
 69C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\jsonfile\utils.js134008643607944976 0
 98C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\jsdom\lib\jsdom\living\helpers\http-request.js134008643661890818 0
 85C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js-pure\full\symbol\index.js134008643683620459 0
+122C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\info\exclude134010222706469570 0
 80C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@adobe\css-tools\docs\API.md134008643749598856 0
 61C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\json5\lib134008643634201552 1
 68C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\json5\LICENSE.md134008643628927796 0
@@ -27546,6 +27561,7 @@
 89C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js-pure\internals\hidden-keys.js134008643681555586 0
 72C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\is-weakmap\README.md134008643624006401 0
 67C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\is-weakmap\test134008643616418761 1
+139C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\hooks\pre-merge-commit.sample134010222706439506 0
 82C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\es-abstract\2025\msFromTime.js134008643678380033 0
 76C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\is-weakmap\test\index.js134008643616901213 0
 108C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@babel\types\lib\converters\gatherSequenceExpressions.js134008643647871839 0
@@ -27739,6 +27755,7 @@
 71C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\is-json\.travis.yml134010220322358793 0
 73C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\gensync\test\.babelrc134008643602580140 0
 89C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\internals\set-is-subset-of.js134008643691954171 0
+115C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.gitignore134010222718978569 0
 73C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\common-tags\readme.md134008643653581717 0
 68C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\is-json\index.js134010220322102608 0
 67C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\is-json\LICENSE134010220321805754 0
@@ -28449,6 +28466,7 @@
 82C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\css-tree\cjs\definition-syntax134010220330141233 1
 72C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\hoopy\.gitlab-ci.yml134008643608120484 0
 88C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\full\array-buffer\is-view.js134008643685527598 0
+119C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\logs\refs134010222718913423 1
 91C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@bcoe\v8-coverage\dist\lib\normalize.js134008643622969287 0
 65C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\hoopy\AUTHORS134008643611465830 0
 106C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\eslint-plugin-flowtype\dist\rules\noExistentialType.js134008643642480835 0
@@ -33329,6 +33347,7 @@
 132C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@testing-library\jest-dom\node_modules\dom-accessibility-api\dist\is-disabled.js134008643749493586 0
 85C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\es-abstract\2019\SameValueZero.js134008643681107926 0
 75C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\es-abstract\2019\Set.js134008643681435330 0
+133C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\hooks\pre-commit.sample134010222706439506 0
 87C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\es-abstract\2019\SetFunctionName.js134008643681676599 0
 89C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\es-abstract\2019\SetIntegrityLevel.js134008643681797343 0
 132C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@typescript-eslint\typescript-estree\dist\parseSettings\getProjectConfigFiles.js134008643631579989 0
@@ -33416,6 +33435,7 @@
 92C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\es-abstract\2018\IsAccessorDescriptor.js134008643673802320 0
 88C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\es-abstract\2018\IsDataDescriptor.js134008643674582263 0
 81C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\es-abstract\2018\IsInteger.js134008643675056457 0
+118C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.parcel-cache134010222719813543 1
 81C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\es-abstract\2018\IsPromise.js134008643675364122 0
 85C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\es-abstract\2018\IsPropertyKey.js134008643675497709 0
 80C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\es-abstract\2018\IsRegExp.js134008643675580934 0
@@ -37339,6 +37359,7 @@
 88C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\stable\instance\trim-left.js134008643696458054 0
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\stable\instance\trim.js134008643696953828 0
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\stable\instance\with.js134008643698464383 0
+134C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\hooks\post-update.sample134010222706434458 0
 101C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@parcel\core\test\fixtures\invalid-source-missing134010220331185287 1
 102C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\internals\object-get-own-property-names.js134008643689026797 0
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\stable\function\bind.js134008643659168381 0
@@ -37442,6 +37463,7 @@
 91C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\proposals\string-code-points.js134008643693627165 0
 89C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\proposals\string-match-all.js134008643693667224 0
 93C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\proposals\symbol-predicates-v2.js134008643694266450 0
+124C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\public.06a6d3c4.css134010222729192456 0
 94C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\proposals\well-formed-stringify.js134008643698246747 0
 100C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\proposals\well-formed-unicode-strings.js134008643698246747 0
 95C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\core-js\modules\es.array-buffer.detached.js134008643669199979 0
@@ -39385,6 +39407,7 @@
 74C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\concat-map\.travis.yml134008643611164382 0
 70C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\concat-map\example134008643616544463 1
 71C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\concat-map\index.js134008643607818204 0
+114C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\refs134010222718868007 1
 70C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\concat-map\LICENSE134008643605195729 0
 75C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\concat-map\package.json134008643601427973 0
 78C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\concat-map\README.markdown134008643614517052 0
@@ -39612,7 +39635,7 @@
 68C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\coa\node_modules134008643580915487 1
 68C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\coa\README.ru.md134008643618406013 0
 80C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\coa\node_modules\ansi-styles134008643610769491 1
-71C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\babel-loader134010219056355133 1
+71C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\babel-loader134010219576348420 1
 106C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\ajv-formats\node_modules\ajv\dist\refs\jtd-schema.d.ts134008643664312639 0
 74C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\coa\node_modules\chalk134008643619071315 1
 99C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@jest\transform\node_modules\convert-source-map134008643610789585 1
@@ -39691,6 +39714,7 @@
 110C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\clean-css\node_modules\source-map\dist\source-map.debug.js134008643634221551 0
 104C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\clean-css\node_modules\source-map\dist\source-map.js134008643636223234 0
 108C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\clean-css\node_modules\source-map\dist\source-map.min.js134008643636910726 0
+109C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git134010222730982967 1
 112C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\clean-css\node_modules\source-map\dist\source-map.min.js.map134008643638790507 0
 87C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@jest\core\build\lib\isValidPath.js134008643633813479 0
 74C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\clean-css\lib\clean.js134008643627003035 0
@@ -39880,6 +39904,7 @@
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\caniuse-lite\data\regions\BA.js134008643644347245 0
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\caniuse-lite\data\regions\BB.js134008643645722679 0
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\caniuse-lite\data\regions\BD.js134008643645909140 0
+131C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\hooks\pre-push.sample134010222706439506 0
 111C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@testing-library\user-event\dist\utils\misc\isDisabled.d.ts134008643750605609 0
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\caniuse-lite\data\regions\BE.js134008643646064731 0
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\caniuse-lite\data\regions\BG.js134008643646634618 0
@@ -39947,6 +39972,7 @@
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\caniuse-lite\data\regions\IT.js134008643666591487 0
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\caniuse-lite\data\regions\JE.js134008643666621481 0
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\caniuse-lite\data\regions\JM.js134008643666646607 0
+147C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.parcel-cache\1f07e141b9fb1238-BundleGraph134010222718993619 0
 92C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@sinclair\typebox\compiler\compiler.d.ts134008643639313028 0
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\caniuse-lite\data\regions\JP.js134008643666707999 0
 99C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@babel\types\lib\comments\removeComments.js.map134008643646534145 0
@@ -40496,6 +40522,7 @@
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\call-bind-apply-helpers\LICENSE134008643608027662 0
 88C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\call-bind-apply-helpers\package.json134008643626287341 0
 93C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\call-bind-apply-helpers\reflectApply.d.ts134008643632625348 0
+127C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.parcel-cache\lock.mdb134010222719567170 0
 89C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\call-bind-apply-helpers\tsconfig.json134008643627244144 0
 89C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\call-bind-apply-helpers\test\index.js134008643622698345 0
 74C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@lezer\lr\package.json134010220322871343 0
@@ -40509,6 +40536,7 @@
 81C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\call-bind\.github\FUNDING.yml134008643627454837 0
 81C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\bonjour-service\dist\index.js134008643623185624 0
 68C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\bytes\History.md134008643610964342 0
+139C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\logs\refs\remotes\origin\HEAD134010222718878094 0
 66C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\bytes\index.js134008643604169826 0
 65C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\bytes\LICENSE134008643601156076 0
 88C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\builtin-modules\builtin-modules.json134008643610864771 0
@@ -41109,6 +41137,7 @@
 66C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\async\internal134008643654219221 1
 64C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\async\log.js134008643648518439 0
 64C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\async\map.js134008643648809740 0
+125C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\logs\refs\heads134010222730973091 1
 69C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\async\mapLimit.js134008643648920115 0
 70C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\async\mapSeries.js134008643649037028 0
 70C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\async\mapValues.js134008643649156657 0
@@ -42064,6 +42093,7 @@
 93C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@testing-library\react\dist\act-compat.js134008643749322686 0
 74C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@xtuc\long\src\long.js134008643625926193 0
 75C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@xtuc\long\dist\long.js134008643618835422 0
+138C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\refs\remotes\origin\gh-pages134010222796151498 0
 79C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@xtuc\long\dist\long.js.map134008643622889099 0
 70C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@xtuc\ieee754\dist134008643616067260 1
 74C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@xtuc\ieee754\index.js134008643604235051 0
@@ -44156,6 +44186,7 @@
 74C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@swc\core\package.json134010220323349212 0
 76C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@swc\core\postinstall.js134010220323524963 0
 72C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@swc\core\spack.d.ts134010220323666869 0
+148C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.parcel-cache\331e236c076e6041-RequestGraph134010222719013705 0
 70C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@swc\core\spack.js134010220323777353 0
 69C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@swc\core\util.js134010220324021342 0
 74C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@swc\core\Visitor.d.ts134010220321434370 0
@@ -44170,7 +44201,7 @@
 78C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@svgr\webpack\CHANGELOG.md134008643612365458 0
 73C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@svgr\webpack\LICENSE134008643602147486 0
 73C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@svgr\plugin-svgo\lib134008643609013384 1
-82C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@svgr\plugin-svgo\node_modules134010220315659138 1
+82C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@svgr\plugin-svgo\node_modules134010220336554837 1
 79C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@svgr\plugin-svgo\README.md134008643618208701 0
 87C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@svgr\plugin-svgo\node_modules\.bin134010220336574854 1
 85C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@babel\template\lib\string.js.map134008643632153444 0
@@ -44479,6 +44510,7 @@
 123C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@surma\rollup-plugin-off-main-thread\tests\fixtures\simple-bundle\build134008643639837875 1
 126C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@surma\rollup-plugin-off-main-thread\tests\fixtures\simple-bundle\entry.js134008643650002415 0
 135C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@surma\rollup-plugin-off-main-thread\tests\fixtures\simple-bundle\build\runner.html134008643639908768 0
+141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\hooks\fsmonitor-watchman.sample134010222706424550 0
 120C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@surma\rollup-plugin-off-main-thread\tests\fixtures\public-path\a.js134008643646054738 0
 121C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@surma\rollup-plugin-off-main-thread\tests\fixtures\public-path\build134008643639097513 1
 124C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@surma\rollup-plugin-off-main-thread\tests\fixtures\public-path\entry.js134008643649892069 0
@@ -45402,7 +45434,7 @@
 95C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@parcel\compressor-raw\lib\RawCompressor.js134010220321312357 0
 86C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@mischnic\json-sourcemap\README.md134010220321211927 0
 82C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@parcel\codeframe\package.json134010220325343278 0
-74C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@parcel\codeframe\test134010220321131696 1
+74C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@parcel\codeframe\test134010220325257740 1
 92C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@parcel\codeframe\test\codeframe.test.js134010220325292799 0
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@parcel\codeframe\test\fixtures134010220321322389 1
 88C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@parcel\codeframe\test\fixtures\a.js134010220321389019 0
@@ -46886,6 +46918,7 @@
 99C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@babel\helper-validator-option\lib\index.js.map134008643618208701 0
 103C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@babel\helper-validator-option\lib\validator.js.map134008643621756560 0
 90C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@babel\helper-validator-identifier\lib134008643621433490 1
+137C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\hooks\pre-applypatch.sample134010222706434458 0
 104C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@babel\helper-validator-identifier\lib\identifier.js134008643609708649 0
 108C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@babel\helper-validator-identifier\lib\identifier.js.map134008643613643615 0
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@babel\helper-string-parser\lib134008643611598067 1
@@ -47159,6 +47192,49 @@
 101C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@adobe\css-tools\dist\cjs\adobe-css-tools.cjs.map134008643749483515 0
 99C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\@adobe\css-tools\dist\cjs\adobe-css-tools.d.cts134008643749388297 0
 78C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\default-development134010219606585077 1
+104C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git134010222729182483 1
+128C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\public.06a6d3c4.css.map134010222729192456 0
+123C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\public.31b563d9.js134010222729253156 0
+141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\babel-loader\38e4da19c1f136b57b83b27cead294d8eff842717c7b37d066214cfc26223b86.json134008651643625670 0
+127C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\public.31b563d9.js.map134010222729273219 0
+123C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\public.d130c565.js134010222729222489 0
+127C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\public.d130c565.js.map134010222729263209 0
+124C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\public.d91c94e1.css134010222729202494 0
+128C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\public.d91c94e1.css.map134010222729202494 0
+146C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.parcel-cache\582c43c847a96184-AssetGraph134010222719028742 0
+146C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.parcel-cache\7f3257092e744014-AssetGraph134010222719028742 0
+127C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.parcel-cache\data.mdb134010222719557289 0
+148C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.parcel-cache\snapshot-331e236c076e6041.txt134010222719828729 0
+124C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\COMMIT_EDITMSG134010222730917656 0
+116C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\config134010222730108406 0
+120C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\FETCH_HEAD134010222726396516 0
+114C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\HEAD134010222728450434 0
+115C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\hooks134010222706459572 1
+115C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\index134010222730907683 0
+114C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\info134010222706469570 1
+114C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\logs134010222718913423 1
+141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\babel-loader\7a38b9553bd8d504ff889ec7ae4d34516dc5fc7c712695027c70b693ac31ba27.json134008651643294483 0
+121C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\packed-refs134010222718847999 0
+122C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\refs\remotes134010222718868007 1
+119C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\refs\tags134010222706469570 1
+134C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\refs\remotes\origin\HEAD134010222718878094 0
+125C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\refs\heads\main134010222718913423 0
+120C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\objects\c2134010222730953091 1
+120C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\objects\e0134010222730907683 1
+122C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\objects\info134010222706519714 1
+122C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\objects\pack134010222718958616 1
+172C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\objects\pack\pack-6c3cb8c5c6e5f48588615c4c81d6686af24e9377.idx134010222718528572 0
+173C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\objects\pack\pack-6c3cb8c5c6e5f48588615c4c81d6686af24e9377.pack134010222729462527 0
+172C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\objects\pack\pack-6c3cb8c5c6e5f48588615c4c81d6686af24e9377.rev134010222718548628 0
+119C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\logs\HEAD134010222730973091 0
+127C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\logs\refs\remotes134010222718878094 1
+143C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\logs\refs\remotes\origin\gh-pages134010222796151498 0
+134C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\logs\refs\heads\gh-pages134010222730973091 0
+130C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\logs\refs\heads\main134010222718913423 0
+133C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\hooks\pre-rebase.sample134010222706449569 0
+141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\hooks\prepare-commit-msg.sample134010222706449569 0
+139C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\hooks\push-to-checkout.sample134010222706459572 0
+141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\gh-pages\https!github.com!Artem200921!hw8.git\.git\hooks\sendemail-validate.sample134010222706459572 0
 85C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\default-development\0.pack134010219606379219 0
 85C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\default-development\2.pack134010219606335757 0
 141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\babel-loader\01716830f5a88f36f639a62a9fe234c7a86bbb14baa5fc0d6054ec3ffd10a095.json134010217609616017 0
@@ -47187,7 +47263,6 @@
 141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\babel-loader\34ff8b4481b51dbc42ecbc55d4426995e31e01728c1f5b7b820a30fb31261540.json134008651624862458 0
 141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\babel-loader\355ff1cf10c2aa0a19b60baa93950d5a1b5e5be2c14859008268644c98bc16e0.json134008651623476017 0
 141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\babel-loader\35783531c12b01e2f9dccafa686cf5753d033580db8a4f3f019f4d85370c2340.json134008651641983898 0
-141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\babel-loader\38e4da19c1f136b57b83b27cead294d8eff842717c7b37d066214cfc26223b86.json134008651643625670 0
 141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\babel-loader\3a23eb42b2336554d5e4f03f48477749e932d3d936c16dbfdcb88dcaf7f82907.json134010219576459051 0
 141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\babel-loader\3ad00af133af7dc8f183f15835684e5574674c6a155a98ae5368272f5b24a9d3.json134010216441906260 0
 141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\babel-loader\3d08079e4c0eca1c5c6fbdb8c9de5635348e4775fabd4784da0db2a1a78857fc.json134010212042590107 0
@@ -47208,7 +47283,6 @@
 141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\babel-loader\5bc5835cf59865523799fcdf2afd87ceec15fb89e027fdda9530f491b330bdd1.json134008651643019267 0
 141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\babel-loader\61299ccb4d5d0ad07e15b009cfd523b55b2712cbffed14b7ef34909ac9a84261.json134010212042580105 0
 141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\babel-loader\6b9ce1ec421306ac6d91c21987722d794f6c9e503630514e7679008198e6a2b1.json134008651642382165 0
-141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\babel-loader\7a38b9553bd8d504ff889ec7ae4d34516dc5fc7c712695027c70b693ac31ba27.json134008651643294483 0
 141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\babel-loader\7a62d43bc3aa7d5fd0ff4cd74cf157261666196072c19f5438e2762f21f8cb66.json134008651643272805 0
 141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\babel-loader\7f396685be97849daa8d0bf4ff756ea735d4da022b6b12b928c8aa8ab1d2f2f5.json134010216535047752 0
 141C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.cache\babel-loader\8131461eed671dc9961c27e42c984c4e0f2c8e99a2f156c15791d4a8d01c6c5c.json134008651643314506 0
@@ -47360,6 +47434,6 @@
 69C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.bin\tsserver.ps1134008643753207874 0
 83C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.bin\update-browserslist-db.cmd134008643699581241 0
 65C:\Users\Amigos\Documents\GoIteens\hw8\node_modules\.bin\uuid.cmd134008643699581241 0
-54C:\Users\Amigos\Documents\GoIteens\hw8\dist\index.html134010220942770274 0
-66C:\Users\Amigos\Documents\GoIteens\hw8\dist\public.31b563d9.js.map134010220943214936 0
+54C:\Users\Amigos\Documents\GoIteens\hw8\dist\index.html134014872774758699 0
+66C:\Users\Amigos\Documents\GoIteens\hw8\dist\public.31b563d9.js.map134014872775528303 0
 66C:\Users\Amigos\Documents\GoIteens\hw8\dist\public.d130c565.js.map134010220869933247 0
