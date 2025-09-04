@@ -682,10 +682,9 @@ var _client = require("react-dom/client");
 var _clientDefault = parcelHelpers.interopDefault(_client);
 var _indexCss = require("./index.css");
 var _app = require("./App");
-var _appDefault = parcelHelpers.interopDefault(_app);
 const root = (0, _clientDefault.default).createRoot(document.getElementById('root'));
 root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactDefault.default).StrictMode, {
-    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _appDefault.default), {}, void 0, false, {
+    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _app.App), {}, void 0, false, {
         fileName: "src/index.js",
         lineNumber: 9,
         columnNumber: 5
@@ -16110,27 +16109,28 @@ $parcel$ReactRefreshHelpers$4089.prelude(module);
 try {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "App", ()=>App);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
+var _react = require("react");
+var _reactDefault = parcelHelpers.interopDefault(_react);
 var _appCss = require("./App.css");
 var _taskList = require("./components/TaskList");
-function App() {
-    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _taskList.TaskList), {}, void 0, false, {
-        fileName: "src/App.js",
-        lineNumber: 5,
-        columnNumber: 10
-    }, this);
+class App extends (0, _reactDefault.default).Component {
+    render() {
+        return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _taskList.TaskList), {}, void 0, false, {
+            fileName: "src/App.js",
+            lineNumber: 7,
+            columnNumber: 12
+        }, this);
+    }
 }
-_c = App;
-exports.default = App;
-var _c;
-$RefreshReg$(_c, "App");
 
   $parcel$ReactRefreshHelpers$4089.postlude(module);
 } finally {
   globalThis.$RefreshReg$ = prevRefreshReg;
   globalThis.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"dVPUn","./App.css":"6n0o6","./components/TaskList":"2YbFv","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi"}],"6n0o6":[function() {},{}],"2YbFv":[function(require,module,exports,__globalThis) {
+},{"react/jsx-dev-runtime":"dVPUn","./App.css":"6n0o6","./components/TaskList":"2YbFv","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"7h6Pi","react":"jMk1U"}],"6n0o6":[function() {},{}],"2YbFv":[function(require,module,exports,__globalThis) {
 var $parcel$ReactRefreshHelpers$b524 = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 $parcel$ReactRefreshHelpers$b524.init();
 var prevRefreshReg = globalThis.$RefreshReg$;
